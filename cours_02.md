@@ -1,22 +1,19 @@
 # Cours 2
-## Présentation des liens
-Choisissez cinq oeuvres ou compagnies multimédia. Expliquez en quoi ces dernières pourraient contribuer à votre démarche artistique? Pourquoi vous intéressent-t-elles? Comme titre, mettez un lien vers un site relié à votre oeuvre ou entreprise. Écrire 2 à 3 lignes par lien.
 
-Exemple: 
-### [Bulle](https://www.onf.ca/interactif/bulle/) 
-L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
-### [Epic Games] (https://www.epicgames.com/site/en-US/home)
-J'ai choisi cette compagnie à cause du nombre d'heure que j'ai passé sur un de le jeux nommé Fortnite. 
-### Lien 2 
-Expliquer pourquoi vous avez choisi ce lien.
+ ### [Epic Games] (https://www.epicgames.com/site/en-US/home)
+J'ai choisi cette compagnie à cause du nombre d'heure que j'ai passé sur un de leur jeux nommé Fortnite. Quand j'était en secondaire 1 et 2 Fortnite, c'était ma vie. Tout mes find de semaines, tout mes congés et tout mes été. 
 
-### Lien 3 
-Expliquer pourquoi vous avez choisi ce lien.  
+### [FromSoftware] (https://www.fromsoftware.jp/ww/)
+J'ai choisi cette comgagnie car je trouver que cette compganie a créer un des meilleure jeux en 20022. Ce jeux ce nomme Elden Ring. Ce jeux c'est un open wolrd qui permais de s'amuser pendant des heures.
 
-### Lien 4 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Steam] (https://store.steampowered.com/?l=french)
+J'ai choisi cette compagnie car je touver que c'est la meilleure platefrome pour jouer à des jeux. Le catalogue des jeux sur steam est remplis  de jeux intéressant que je peux jouer avec mes amis.
 
-### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Rockstar Games] (https://www.rockstargames.com/fr/)
+J'ai choisi cette compagnie car elle est le createur d'un des jeux le plus extrêmement connu GTA 5. Un jeux avec tellemnet de chose a faire, mulitjoueur et mode histoire, peux importe qui tu est,  tu peux y trouver quelque chose d'intéressant a faire.
+
+### [Minecraft] (https://www.minecraft.net/fr-fr)
+J'ai choisi ce jeux car c'est le jeux de mon enfance, tout le monde de ma génération à déja jouer à ce jeux, puis à cause des modes, ce jeux reussi a rester "fresh". Patir une game en survie et entendre la bonne vielle music de minecraft, c'est tellement nostalgique. :smiley:
+
 
