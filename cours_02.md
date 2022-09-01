@@ -1,7 +1,7 @@
 # Cours 2
 
 
- ### [Epic Games] (https://www.epicgames.com/site/en-US/home)
+### [Epic Games] (https://www.epicgames.com/site/en-US/home)
 J'ai choisi cette compagnie à cause du nombre d'heure que j'ai passé sur un de leur jeux nommé Fortnite. Quand j'était en secondaire 1 et 2 Fortnite, c'était ma vie. Tout mes find de semaines, tout mes congés et tout mes été. 
 
 ### [FromSoftware] (https://www.fromsoftware.jp/ww/)
