@@ -8,7 +8,7 @@ Je m'appele Adrien Colter j'ai 17 ans.
 J'aime bien les jeux video.
 
 ### Emplois qui vous intéressent
-devlopeur web et jsp
+Devlopeur web et jsp
 
 
 ### Identification
