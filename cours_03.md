@@ -18,4 +18,4 @@ je m'intendifi a aucune compagnie mais j'ai bien la compagnie FromSofware, il fo
 dans 5 ans je me vois dans une job stable avec un salaire correcte
 
 ### Projets
-utiliser after effects pour faire une video avec plein d'efft interessant.
+utiliser after effects pour faire une video avec plein d'effet interessant.
