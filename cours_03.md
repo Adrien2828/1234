@@ -1,20 +1,21 @@
 # Cours 3
-## Plan de présentation
+faire la presentation
 
 ### Présentation
-Parlez de vous. 
+Je m'appele Adrien Colter j'ai 17 ans
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+j'aime bien les jeux video
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+devlopeur web et jsp
+
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+je m'intendifi a aucune compagnie mais j'ai bien la compagnie FromSofware, il font des bons jeux. :smile:
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+dans 5 ans je me vois dans une job stable avec un salaire correcte
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+utiliser after effects pour faire une video avec plein d'efft interessant.
