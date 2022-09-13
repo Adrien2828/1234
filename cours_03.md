@@ -1,5 +1,5 @@
 # Cours 3
-Faire la presentation.
+Faire ma presentation.
 
 ### Présentation
 Je m'appele Adrien Colter j'ai 17 ans.
