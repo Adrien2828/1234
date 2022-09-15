@@ -2,19 +2,23 @@
 ## Décrire 5 emplois du domaine du multimédia
 Choisissez des emplois qui pourraient vous intéresser. 
 
-### Emploi 1 - Identification
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
+### Développeur Web
+Un dévélopeur web ça Analyse le fonctionnement et le raisonnement du cerveau humain face à un problème donné,
+effectue des recherches sur les innovations et les possibilités d'optimisation et d'amélioration continue en intelligence artificielle et
+évalue les méthodes et techniques d'intelligence artificielle disponibles, en sélectionne et adapte les plus pertinentes pour régler un problème donné. C'est un emploi qui ce fait a l'interieur car tu a besoin d'utiliser un ordinateur, pour pratiquer ce métier il faut être bon pour résoudre des porblèmes, et aimer apprendre car c'est un milieu qui changer a travers les années. Ce qui m'intéressent c'est le fait de créer des site web. Et un truc qui m'intéresse moin c'est que la travail a l'aire d'être répétitif car tu code un site, après un autre et après un autre jusqu'à ce que tu soit trop vieux pour travailler et prenne ta retraite. :laughing:
 
-### Emploi 2 - Identification
-4 à 5 lignes
+### Graphiste
+Des tâches d'un Graphiste son, contacter les clients et présenter les services.
+analyser les besoins des clients, discuter des projets et créer des offres de services, préparer un plan de travail,
+concevoir des solutions graphiques sous la direction d'un directeur artistique ou indépedamment en recherchant des hypothèses et en développant des conceptions de base pour les idées sélectionnées et finalement, déterminez les moyens les plus appropriés pour créer l'effet visuel souhaité et la méthode de reproduction la plus appropriée. Un graphiste c'est personne travail a l'intérieur car il a besoin d'ordinateur et de tablette graphique. Pour quelqu'un qui est bon en dessin et est créatif, sa peut beaucoup aider en tant que graphiste. Ce qui m'intéressent dans ce metier c'est utilisé sa créativité, et ce qui m'intéresse moin c'est le dessin car je suis pas bon en dessin.
 
-### Emploi 3 - Identification
-4 à 5 lignes 
+### Monteur Sonore
+Des tâches d'un Monteur Sonore son, évaluer les besoins des producteurs et des réalisateurs avant, pendant et après le tournage afin de bien comprendre les exigences de la production cinématographique et télévisuelle, affichez une copie de l'image modifiée et écoutez la piste audio originale pour juger de la qualité,
+décidez si vous souhaitez ajouter des effets sonores à la bande originale, sélectionnez des effets sonores dans une banque de sons (bibliothèque de sons) à ajouter à une bande-son déjà enregistrée. Un monteur sonore, ça travaille a  l'interieur car il utilise souvent des ordinateurs, quelqu'un qui aime la musique et s'interèsse au effet sonore dans les films, jeux vidéo, etc. Un truc qui m'intéresse dans ce métier c'est utiliser des logicielle de traitement de son.
 
-### Emploi 4 - Identification
-4 à 5 lignes
+### Illustrateur
+Voice quelque taches fait pas un illusrateur. Consulter les clients et analyser leurs besoins.Décidez du type et du style d'illustration que vous souhaitez créer. Estimation du coût de réalisation du projet. Négocier les termes du contrat. Créez une esquisse à main levée ou à l'ordinateur du concept sélectionné. Envoyer le projet au client pour approbation, créez des images et des illustrations qui communiquent, expliquent et appuient des déclarations et des idées. Les gens qui font ce travail, travaille a l'intérieur car ils doivent utiliser des ordinateurs et des tablettes graphiques. Quelqu'un qui est bon en dessin et créatif serait un bon candidats pour devenir illustrateur. Quelque chose qui m'intéresse c'est utilisé ma créativité, puis quelque chose que j'aime moins c'est que tu doit savoir bien dessiner.
 
-### Emploi 5 - Identification
-4 à 5 lignes
-
-
+### Photographe
+Voici quelque tâche faite par un photographe. Consulté nos clients et analyser leurs besoins. Décidez du type et du style d'illustration que vous souhaitez créer. Estimation du coût de réalisation du projet. Négocier les termes du contrat.Créez une esquisse à main levée ou à l'ordinateur du concept sélectionné. Envoyer le projet au client pour approbation. Créez des images et des illustrations qui communiquent, expliquent, expliquent et appuient des déclarations et des idées.
+Un photographe ça peut travailler partout ou il est capable d'amener sa caméra. Quelqu'un qui est passioner pas la phtographie et qui a un esprit créatif est un bon candidat pour devenir photographe. Un truc qui m'intéresse dans cette emploi c'est utilisé un apareil photo. Puis quelque chose que j'aime moins c'est que tu doit être bon pour trouver les bons angles pour prendre une photo et je suis pas bon pour faire ça.
