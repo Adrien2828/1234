@@ -1,7 +1,4 @@
 # Cours 4
-## Décrire 5 emplois du domaine du multimédia
-Choisissez des emplois qui pourraient vous intéresser. 
-
 ### Développeur Web
 Un dévélopeur web ça Analyse le fonctionnement et le raisonnement du cerveau humain face à un problème donné,
 effectue des recherches sur les innovations et les possibilités d'optimisation et d'amélioration continue en intelligence artificielle et
