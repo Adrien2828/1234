@@ -1,7 +1,3 @@
-# Cours 6
-## Préparation en vue de la visite
-Préparer 5 questions en lien avec la visite que nous irons faire la semaine prochaine. Faites des recherches concernant ce que nous allons visiter afin d'en savoir plus. Les questions doivent porter sur des informations que vous ne pouvez pas trouver en ligne. 
-
 ## Eidos
 ## Question 1
 Est-ce que les programmes que vous utiliser pour créer des jeux change a travers les année, et si oui a quelle vitesse.
