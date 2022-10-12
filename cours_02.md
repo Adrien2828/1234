@@ -13,7 +13,7 @@ J'ai choisi cette compagnie car je touver que c'est la meilleure platefrome pour
 ### [Rockstar Games](https://www.rockstargames.com/fr/)
 J'ai choisi cette compagnie car elle est le createur d'un des jeux les plus connus GTA 5. Un jeux avec tellemnet de chose a faire, mulitjoueur et mode histoire, peux importe qui tu est, tu peux y trouver quelque chose d'intéressant a faire.
 
-### [Xbox Game Studio](https://www.minecraft.net/fr-fr](https://www.xbox.com/en-US/xbox-game-studios)
+### [Xbox Game Studio](https://www.xbox.com/en-US/xbox-game-studios)
 J'ai choisi cette compagnie car c'est elle qui possède le jeux de mon enfance, Minecraft. Tout le monde de ma génération à déja jouer à ce jeux, puis à cause des modes, ce jeux reussi a rester "fresh". Patir une game en survie et entendre la bonne vielle music de minecraft, c'est tellement nostalgique. :smiley:
 
 
