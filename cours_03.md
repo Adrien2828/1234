@@ -1,6 +1,4 @@
 # Cours 3
-Faire ma presentation.
-
 ### Présentation
 Je m'appele Adrien Colter j'ai 17 ans, j'ai vécu au Rwanda pour 1 ans et dans le grand nord du québec pour un ans et demi. J'aime les jeux vidéos. Je suis Afro Américain/Québecois. 
 
