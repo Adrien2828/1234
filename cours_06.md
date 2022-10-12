@@ -3,7 +3,7 @@
 Est-ce que les programmes que vous utiliser pour créer des jeux change a travers les année, et si oui a quelle vitesse.
 
 ## Question 2 
-Est-ce que vous penser vraiment que la Vr c'est le future pour les jeux vidéos, ou est-ce que vous penser c'est d'autre choses.
+Est-ce que vous penser que la Vr c'est le future pour les jeux vidéos, ou est-ce que vous pensez que c'est d'autre choses.
 
 ## Question 3
 C'est quoi votre jeux vidéo préféré, et pourquoi.
