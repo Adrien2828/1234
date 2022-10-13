@@ -1,18 +1,17 @@
 # Cours 3
 ### Présentation
-Je m'appele Adrien Colter j'ai 17 ans, j'ai vécu au Rwanda pour 1 ans et dans le grand nord du québec pour un ans et demi. J'aime les jeux vidéos. Je suis Afro Américain/Québecois. 
+Je m'appelle Adrien Colter j'ai 17 ans, j'ai vécu au Rwanda pour 1 an et dans le Grand Nord du Québec pour un an et demi. J'aime les jeux vidéos. Je suis Afro-Américain/Québécois. 
 
 ### Intérêts dans le domaine
-J'aime bien les jeux videos. La Vr sa m'intéresse beaucoup, j'ai vue des vidéos puis sa a l'aire super amusant.
+J'aime bien les jeux vidéos. La Vr sa m'intéresse beaucoup, j'ai vu des vidéos puis ça a l'aire super amusant.
 
 ### Emplois qui vous intéressent
-Devloppeur web, s'ocuppe de tous ce qui est progrmation pour un site intêrnet. Designeur Web, qui crée tous ce qui est visuelle sur un site intêrnet.
-
+Développeur Web, s'occupe de tous ce qui est une programmation pour un site internet. Designeur Web, qui crée tout ce qui est visuel sur un site internet.
 
 ### Identification
-Je m'intendifi a FromSofware, ils ont créer Elden Ring qui est tous simplement un des meilleure jeux créer. :smile:
+Je m'identifie a FromSofware, ils ont créé Elden Ring qui est tous simplement un des meilleurs jeux créer. :smile:
 
 ### Dans 5 ans
-Dans 5 ans, je sait pas vraiment ce que je vais faire, mais, j'espère que je vais avoir une job avec un salaire correcte.
+Dans 5 ans, je ne sais pas vraiment ce que je vais faire, mais, j'espère que je vais avoir une job avec un salaire correcte.
 ### Projets
-J'aurai bien aimer travailler sur le jeux de Amazon studio (New World). Un jeux que j'ai adorer mais, il faudrait changer des choses.
+J'aurai bien aimé travailler sur le jeu de Amazon studio (New World). Un jeux que j'ai adoré, mais, il faudrait changer des choses.
